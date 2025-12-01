@@ -18,6 +18,8 @@ Categorized distance into labels such as Very Short, Short, Medium, Long, Very L
 Extracted pickup hour (0–23).
 Generated borough-level aggregations and behavioral segments.
 
+--- Exploratory Data Analysis ---
+
 1. Demand Analysis
 Trip volume by hour (0–23) across all boroughs.
 Peak demand during 07–10 AM and 03–06 PM.
@@ -37,11 +39,12 @@ Identification of top pickup zones with longest average distances.
 Dynamic Top-N filtering to adjust ranking interactively.
 
 The analysis reveals clear customer demand patterns and trip behaviors across NYC boroughs, enabling:
-Better fleet allocation during high-demand periods
-Improved service quality and operational efficiency
-More targeted route planning and pricing strategies
-Stronger understanding of mobility behavior for decision-makers
-This project demonstrates how data-driven insights can enhance transportation services in a complex urban mobility ecosystem.
+
+- Better fleet allocation during high-demand periods
+- Improved service quality and operational efficiency
+- More targeted route planning and pricing strategies
+- Stronger understanding of mobility behavior for decision-makers
+- This project demonstrates how data-driven insights can enhance transportation services in a complex urban mobility ecosystem.
 
 You can view the interactive Tableau dashboard here: 
 https://public.tableau.com/views/NYVTLCTripDemandMobilityInsightsDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
