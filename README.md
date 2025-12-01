@@ -42,3 +42,6 @@ Improved service quality and operational efficiency
 More targeted route planning and pricing strategies
 Stronger understanding of mobility behavior for decision-makers
 This project demonstrates how data-driven insights can enhance transportation services in a complex urban mobility ecosystem.
+
+You can view the interactive Tableau dashboard here: 
+https://public.tableau.com/views/NYVTLCTripDemandMobilityInsightsDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
