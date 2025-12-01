@@ -17,3 +17,28 @@ Calculated avg_speed_mph using distance and duration.
 Categorized distance into labels such as Very Short, Short, Medium, Long, Very Long.
 Extracted pickup hour (0–23).
 Generated borough-level aggregations and behavioral segments.
+
+1. Demand Analysis
+Trip volume by hour (0–23) across all boroughs.
+Peak demand during 07–10 AM and 03–06 PM.
+Manhattan shows consistently dominant ridership.
+2. Borough-Level Insights
+Geographic distribution of total trips.
+Borough comparison based on distance category, average distance, and trip count.
+3. Trip Characteristics
+Distribution of categorized trip distances.
+Average trip duration and speed across boroughs.
+Mobility performance patterns that differ between urban and suburban zones.
+4. Payment Method Analysis
+Donut chart visualizing payment method proportions.
+Card payments dominate, followed by cash and wallet-based payments.
+5. Pickup Zone Insights
+Identification of top pickup zones with longest average distances.
+Dynamic Top-N filtering to adjust ranking interactively.
+
+The analysis reveals clear customer demand patterns and trip behaviors across NYC boroughs, enabling:
+Better fleet allocation during high-demand periods
+Improved service quality and operational efficiency
+More targeted route planning and pricing strategies
+Stronger understanding of mobility behavior for decision-makers
+This project demonstrates how data-driven insights can enhance transportation services in a complex urban mobility ecosystem.
